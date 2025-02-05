@@ -1,0 +1,11 @@
+/Users/joeylin/Documents/C++_youtube_downloader/target/debug/deps/libserde_qs-e02df65ceee434ad.rmeta: /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/lib.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/de/mod.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/de/parse.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/error.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/ser.rs
+
+/Users/joeylin/Documents/C++_youtube_downloader/target/debug/deps/libserde_qs-e02df65ceee434ad.rlib: /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/lib.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/de/mod.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/de/parse.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/error.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/ser.rs
+
+/Users/joeylin/Documents/C++_youtube_downloader/target/debug/deps/serde_qs-e02df65ceee434ad.d: /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/lib.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/de/mod.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/de/parse.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/error.rs /Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/ser.rs
+
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/lib.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/de/mod.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/de/parse.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/error.rs:
+/Users/joeylin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_qs-0.8.5/src/ser.rs:
